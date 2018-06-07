@@ -30,7 +30,7 @@ anonphoto.anonphoto.anonymizephoto("first.jpg","out.png")
 
 ## Authors
 
-* **TurkishTinMan** - *Initial work* - [PurpleBooth](https://github.com/TurkishTinMan)
+* **TurkishTinMan** - *Initial work* - [TTM](https://github.com/TurkishTinMan)
 
 
 ## License
