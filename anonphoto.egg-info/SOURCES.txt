@@ -1,0 +1,7 @@
+README.md
+setup.py
+anonphoto.egg-info/PKG-INFO
+anonphoto.egg-info/SOURCES.txt
+anonphoto.egg-info/dependency_links.txt
+anonphoto.egg-info/requires.txt
+anonphoto.egg-info/top_level.txt
